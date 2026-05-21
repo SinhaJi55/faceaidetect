@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Large AI Files
+*.pkl
+*.index
+
+# Temp Images
+data/temp/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+.env
